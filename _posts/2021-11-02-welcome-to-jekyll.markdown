@@ -1,29 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Dewi Rizki Anggraeni"
 date:   2021-11-02 21:32:40 +0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+| Day   | Materi                                                     | Point-Point Materi                                                                                                                                                                                                                                      | Exercise                                                                                                                          | Any Brokers | Pengumpulan Tugas                                                                                                                                                            |
+| ----- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Day 1 | Working with Linux                                         | \- Seberapa penting Linux bagi programmer?<br>\- Istliah dalam Linux<br>\- Distro Linux                                                                                                                                                                 | \- Instal Linux - Instal Jekyll                                                                                                   |             | [https://drive.google.com/drive/folders/14ELA0tF0upg7m2G5eXs8WYVbWDqtpd11?usp=sharing](https://drive.google.com/drive/folders/14ELA0tF0upg7m2G5eXs8WYVbWDqtpd11?usp=sharing) |
+| Day 2 | Working with Terminal                                      | \- Command Line<br>\- Opening Terminal<br>\- Creating Folders and Files<br>\- Moving and Manipulating Files<br>\- What is zsh<br>\- Installing zsh and oh my zsh<br>\- .zshrc file<br>\- Plugins<br>\- Themes                                           | \- Creating Folders and Files<br>\- Moving Files<br>\- Install oh my zsh<br>\- Install zsh                                        |             | [https://drive.google.com/drive/folders/14ELA0tF0upg7m2G5eXs8WYVbWDqtpd11?usp=sharing](https://drive.google.com/drive/folders/14ELA0tF0upg7m2G5eXs8WYVbWDqtpd11?usp=sharing) |
+| Day 3 | \- Version Control with Git (Introduction)<br>\- Git Basic | \- Version Control System<br>\- Git<br>\- Dasari-dasar Git<br>\- Command Line<br>\- Repository Git<br>\- Menyimpan perubahan ke Repository Git<br>\- Melihat Riwayat Commit<br>\- Mengulangi perubahan<br>\- Bekerja dengan Remote<br>\- Tagging"       | \- Install Git<br>\- Push ke Repository Git<br>\- WPM<br>\- Stack overflow<br>\- Duolingo<br>\- Hackerrank<br>                    |             | [https://drive.google.com/drive/folders/14ELA0tF0upg7m2G5eXs8WYVbWDqtpd11?usp=sharing](https://drive.google.com/drive/folders/14ELA0tF0upg7m2G5eXs8WYVbWDqtpd11?usp=sharing) |
+| Day 4 | \- Git Branch<br>\- Distributed Git                        | \- Basic Branching<br>\- Branch Management<br>\- Branching Workflow<br>\- Remote Branch<br>\- Rebasing<br>\- Distributed Workflow<br>\- Contributing to a Project<br>\- Maintaining a Project                                                           | \- Git Branch<br>\- Distribute Git<br>\- WPM<br>\- Duolingo<br>\- Hackerrank<br>\- Stack overflow                                 |             | [https://drive.google.com/drive/folders/14ELA0tF0upg7m2G5eXs8WYVbWDqtpd11?usp=sharing](https://drive.google.com/drive/folders/14ELA0tF0upg7m2G5eXs8WYVbWDqtpd11?usp=sharing) |
+| Day 5 | \- Git Tools<br>\- Git Others                              | \- Revision Selection<br>\- Interactive Staging<br>\- Stashing and Cleaning<br>\- Searching<br>\- Rewriting Commit<br>\- Submodules<br>\- Git Zsh<br>\- Git Vs Code                                                                                     | \- Git Tools<br>\- Extensions Git<br>\- WPM<br>\- Duolingo<br>\- Hackerrank<br>\- Stack overflow                                  |             | [https://drive.google.com/drive/folders/14ELA0tF0upg7m2G5eXs8WYVbWDqtpd11?usp=sharing](https://drive.google.com/drive/folders/14ELA0tF0upg7m2G5eXs8WYVbWDqtpd11?usp=sharing) |
+| Day 8 | \- Starting Git with GitHub<br>\- Working with Text Editor | \- GitHub<br>\- Generate Public SSH Key<br>\- Adding SSH Key to GitHub Account<br>\- Contributing to Project<br>\- Maintaining Project<br>\- Visual Studio Code<br>\- Setup<br>\- Setting<br>\- User Interface<br>\- Keyboard shortcuts & Key bindings" | \- Generate SSH Key<br>\- Extensions Text Editor<br>\- WPM<br>\- Duolingo<br>\- Hackerrank<br>\- Stack overflow                   |             | [https://drive.google.com/drive/folders/14ELA0tF0upg7m2G5eXs8WYVbWDqtpd11?usp=sharing](https://drive.google.com/drive/folders/14ELA0tF0upg7m2G5eXs8WYVbWDqtpd11?usp=sharing) |
+| Day 9 | \- User Guide with Text Editor<br>\- Ticketing             | \- Basing Editing<br>\- Extensions<br>\- IntelliSense<br>\- Code Navigation<br>\- Refactoring<br>\- Version Control<br>\- Integrated Terminal<br>\- Snippets<br>\- Emmet<br>\- Apa itu Ticketing?<br>\- SOP Ticketing<br>\- Tools Ticketing"            | \- Macam macam tools ticketing<br>\- Macam macam Shortcut Keyboard<br>\- WPM<br>\- Duolingo<br>\- Hackerrank<br>\- Stack overflow |             | [https://drive.google.com/drive/folders/14ELA0tF0upg7m2G5eXs8WYVbWDqtpd11?usp=sharing](https://drive.google.com/drive/folders/14ELA0tF0upg7m2G5eXs8WYVbWDqtpd11?usp=sharing) |
